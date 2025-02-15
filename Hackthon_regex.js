@@ -30,7 +30,7 @@ def extract_info(text):
 
 // Our sample text
 input_data= '''
-Phone numbers (all sorts):
+Phone numbers (various formats):
 (123) 456-7890
 123-456-7890
 123.456.7890
@@ -45,7 +45,7 @@ Credit card numbers:
 Hashtags:
 #example
 #ThisIsAHashtag
-Currency amounts:
+Currency amounts
 $19.99
 $1,234.56
 '''
