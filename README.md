@@ -1,4 +1,4 @@
-This is a siimple python code demonstrating how to extra info in an object using regular expressions among others.
+This is a simple python code demonstrating how to extract info in an object using regular expressions among others.
 
 We extracted data from phone numbers, credit card numbers, Hashtags and currencies. It is done basing on the following values: 
 
